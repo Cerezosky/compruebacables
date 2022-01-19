@@ -1,0 +1,8 @@
+0 azul
+1 bAzul
+2 verde
+3 bVerde
+4 naranja
+5 bNaranja
+6 marron
+7 bMarron
